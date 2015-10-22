@@ -24,7 +24,7 @@
   "dependencies": {
     "yeepay":"^0.1.5",
     "llpaycashpay":"^0.0.6",
-    "paypalm-flashbean":"^0.0.3"
+    "paypalm-flashbean":"^0.0.4"
   },
   "author": {
     "name": "navyxie"
