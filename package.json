@@ -1,6 +1,6 @@
 {
   "name": "withdraw-plugin",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "第三方支付插件",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,9 @@
 
   },
   "dependencies": {
-    "yeepay":"^0.1.5",
+    "yeepay":"^0.2.2",
     "llpaycashpay":"^0.0.6",
-    "paypalm-flashbean":"^0.0.5"
+    "paypalm-flashbean":"^0.1.1"
   },
   "author": {
     "name": "navyxie"
